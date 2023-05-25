@@ -113,6 +113,7 @@ USE_I18N = True
 
 USE_TZ = True
 
+DJANGO_SETTINGS_MODULE = 'quinnsBlog.settings'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
